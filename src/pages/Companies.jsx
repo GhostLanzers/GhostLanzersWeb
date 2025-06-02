@@ -4,17 +4,17 @@ const companies = [
   {
     name: 'The Placement Park.',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80',
-    url: '#'
+    url: 'https://www.theplacementpark.com/login'
   },
   {
     name: 'Ophysio - Physiotherapy Center.',
     image: 'https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&q=80',
-    url: '#'
+    url: 'https://ophysio.in/'
   },
   {
     name: 'Surya Interiors & Constructions.',
     image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80',
-    url: '#'
+    url: 'https://suryainteriorsconstructions.onrender.com/'
   },
   {
     name: 'Three Star Networks, Mumbai.',
