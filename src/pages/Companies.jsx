@@ -4,7 +4,7 @@ const companies = [
   {
     name: 'The Placement Park.',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80',
-    url: 'https://www.theplacementpark.com/login'
+    url: 'https://the-placement-park-website.onrender.com/'
   },
   {
     name: 'Ophysio - Physiotherapy Center.',
@@ -19,7 +19,7 @@ const companies = [
   {
     name: 'Three Star Networks, Mumbai.',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80',
-    url: '#'
+    url: 'https://www.justdial.com/Mumbai/Three-Star-Cable-Network-Opposite-Imperial-Palace-Hotel-Andheri-East/022P5518126_BZDET'
   }
 ];
 
